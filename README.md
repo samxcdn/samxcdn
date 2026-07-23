@@ -26,16 +26,21 @@
 <table>
   <tr>
     <td>
-      <img width="448" height="700"  src="https://i.pinimg.com/originals/de/df/ec/dedfec10b837fd26e4b1aaf4aa21a43b.gif"/>
+      <img width="448" height="700" src="https://i.pinimg.com/originals/de/df/ec/dedfec10b837fd26e4b1aaf4aa21a43b.gif"/>
     </td>
     <td valign="top">
-      <img width="400px" src="https://streak-stats.demolab.com/?user=samxcdn&theme=radical" alt="streak stats"/>
+      <img width="400" src="https://github-readme-stats.shion.dev/api?username=samxcdn&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false"/>
       <br/>
-      <img width="400px" src="https://github-readme-stats.vercel.app/api?username=samxcdn&show_icons=true&theme=radical" alt="samxcdn" />
+      <img width="400" src="https://streak-stats.demolab.com/?user=samxcdn&theme=ambient_gradient&hide_border=false"/>
+      <br/>
+      <img width="400" src="https://github-readme-stats.shion.dev/api/top-langs/?username=samxcdn&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
     </td>
   </tr>
 </table>
 
+---
+[![](https://komarev.com/ghpvc/?username=samxcdn&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
