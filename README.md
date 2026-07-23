@@ -10,6 +10,7 @@
 <div>
 
 <img align="right" width="400" height="700" alt="Shimarin" src="https://media.tenor.com/CBiORdgSvQoAAAAM/death-note-kira.gif"/>
+<img align="right" src="https://komarev.com/ghpvc/?username=samxcdn&icon=0&color=0"/>
 
 
 <h2>ꜱᴏʙʀᴇ ᴍɪ</h2>
@@ -38,8 +39,8 @@
   </tr>
 </table>
 
----
-[![](https://komarev.com/ghpvc/?username=samxcdn&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
