@@ -26,7 +26,7 @@
 <table>
   <tr>
     <td>
-      <img width="448" height="700" src="https://i.pinimg.com/originals/de/df/ec/dedfec10b837fd26e4b1aaf4aa21a43b.gif"/>
+      <img width="400" height="700" src="https://i.pinimg.com/originals/de/df/ec/dedfec10b837fd26e4b1aaf4aa21a43b.gif"/>
     </td>
     <td valign="top">
       <img width="400" src="https://github-readme-stats.shion.dev/api?username=samxcdn&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false"/>
