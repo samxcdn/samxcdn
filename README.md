@@ -27,8 +27,8 @@
 
 
 <p align="center">
+<img width="400px" src="https://streak-stats.demolab.com/?user=samxcdn&theme=radical" alt="streak stats"/>
 <img width="400px" src="https://github-readme-stats.vercel.app/api?username=samxcdn&show_icons=true&theme=radical" alt="samxcdn" />
-<img width="400px" src="https://streak-stats.demolab.com/?user=samxcdn&theme=radical">
 </p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=samxcdn&bg_color=141321&color=E5289E&line=DA5B0B&point=E1E8EB">
 
