@@ -23,20 +23,18 @@
   </br></br>
 
 
-<br clear="both"/>
- <img align="left" width="448" height="700" src="https://i.pinimg.com/originals/de/df/ec/dedfec10b837fd26e4b1aaf4aa21a43b.gif"/>
-
-
-
-
-
-
-<img width="400px" src="https://streak-stats.demolab.com/?user=samxcdn&theme=radical" alt="streak stats"/>
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=samxcdn&show_icons=true&theme=radical" alt="samxcdn" />
-</p>
-
-<br clear="both"/>
-</div>
+<table>
+  <tr>
+    <td>
+      <img width="448" height="700"  src="https://i.pinimg.com/originals/de/df/ec/dedfec10b837fd26e4b1aaf4aa21a43b.gif"/>
+    </td>
+    <td valign="top">
+      <img width="400px" src="https://streak-stats.demolab.com/?user=samxcdn&theme=radical" alt="streak stats"/>
+      <br/>
+      <img width="400px" src="https://github-readme-stats.vercel.app/api?username=samxcdn&show_icons=true&theme=radical" alt="samxcdn" />
+    </td>
+  </tr>
+</table>
 
 
 
