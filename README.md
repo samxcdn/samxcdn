@@ -53,11 +53,15 @@
 
 
 
+<div align="center">
+
 ### GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=samxcdn&theme=codeSTACKr&no-frame=false&no-bg=true&margin-w=4)
 
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=samxcdn&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
+
+</div>
 
 <br/>
 
@@ -79,9 +83,10 @@
 
 </div>
 
+<div align="center">
+
 ## Contact us
 
-<div align="center">
 
 <a href="https://twitter.com/OSSInsight" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
