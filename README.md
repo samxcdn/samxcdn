@@ -81,13 +81,20 @@
 
 ## Contact us
 
+<div align="center">
+
 <a href="https://twitter.com/OSSInsight" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
 
 <a href="https://github.com/pingcap/ossinsight/discussions" target="_blank">
 <img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
 
 <a href="mailto:ossinsight@pingcap.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>
+
+</div>
 
 <img align="center" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
