@@ -75,7 +75,7 @@
 
 <div align="center">
 
-  <img src="./assets/saint-of-love.gif" width="600"/>
+  <img src="./assets/saint-of-love.gif" width="600" height="600"/>
 
 </div>
 
