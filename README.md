@@ -35,6 +35,7 @@
 <img width="400px" src="https://github-readme-stats.vercel.app/api?username=samxcdn&show_icons=true&theme=radical" alt="samxcdn" />
 </p>
 
+<br clear="both"/>
 </div>
 
 
