@@ -23,7 +23,7 @@
 
 
 <br clear="both"/>
- <img align="left" width="440" height="700" src="https://i.pinimg.com/originals/de/df/ec/dedfec10b837fd26e4b1aaf4aa21a43b.gif"/>
+ <img align="left" width="445" height="700" src="https://i.pinimg.com/originals/de/df/ec/dedfec10b837fd26e4b1aaf4aa21a43b.gif"/>
 
 
 
