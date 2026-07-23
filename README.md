@@ -10,7 +10,9 @@
 <div>
 
 <img align="right" width="400" height="700" alt="Shimarin" src="https://media.tenor.com/CBiORdgSvQoAAAAM/death-note-kira.gif"/>
-<img align="right" src="https://komarev.com/ghpvc/?username=samxcdn&icon=0&color=0"/>
+<img align="right" src="https://komarev.com/ghpvc/?username=samxcdn&label=Profile%20views&color=0e75b6&style=flat" alt="samxcdn" />
+<img align="right" src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/samxcdn&label=Total%20Repos&query=public_repos&color=0e75b6&style=flat" alt="Repos" />
+
 
 
 <h2>ꜱᴏʙʀᴇ ᴍɪ</h2>
@@ -52,9 +54,6 @@
 
 
 
-| Repository Activity Trends | Collaborative Productivity - Last 28 days |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto" />|
 
 | Repository Performance Stats - Last 28 days | Active Contributors - Last 28 days |
 | ----------- | ----------- |
