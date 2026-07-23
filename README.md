@@ -36,7 +36,7 @@
       <br/>
       <img width="400"  src="https://github-readme-stats.shion.dev/api/top-langs/?username=samxcdn&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
       <br/>
-      <img width="400" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=257218955&image_size=auto"/>
+      <img width="400" height="280" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=257218955&image_size=auto"/>
     </td>
   </tr>
 </table>
