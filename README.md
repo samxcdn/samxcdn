@@ -25,7 +25,19 @@
 
  <img align="left" width="450" height="700" src="https://i.pinimg.com/originals/de/df/ec/dedfec10b837fd26e4b1aaf4aa21a43b.gif"/>
 
- [![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=walleeva2018&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
+
+<p align="center">
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=samxcdn&show_icons=true&theme=radical" alt="samxcdn" />
+<img width="400px" src="https://streak-stats.demolab.com/?user=samxcdn&theme=radical">
+</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samxcdn&bg_color=141321&color=E5289E&line=DA5B0B&point=E1E8EB">
+
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+
 
   
 
@@ -43,9 +55,6 @@
 | ----------- | ----------- |
 |<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?activity=stars&repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=41986369&image_size=auto" />|
 
-| Company Affiliation | Lines of Code Changes |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-company/thumbnail.png?activity=stars&repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=41986369&image_size=auto" />|
 
 | Pull Request Size | Pull Request Lifecycle |
 | ----------- | ----------- |
