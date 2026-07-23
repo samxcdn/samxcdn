@@ -26,15 +26,33 @@
   </br></br>
 
 
-<img align="right" width="430" height="700" src="https://i.pinimg.com/originals/de/df/ec/dedfec10b837fd26e4b1aaf4aa21a43b.gif"/>
-<img align="right" width="400" src="https://github-readme-stats.shion.dev/api?username=samxcdn&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false"/>
-<img align="right" width="400" src="https://streak-stats.demolab.com/?user=samxcdn&theme=ambient_gradient&hide_border=false"/>
-<img align="right" width="400" src="https://github-readme-stats.shion.dev/api/top-langs/?username=samxcdn&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+<table>
+  <tr>
+    <td>
+      <img width="430" height="700" src="https://i.pinimg.com/originals/de/df/ec/dedfec10b837fd26e4b1aaf4aa21a43b.gif"/>
+    </td>
+    <td valign="top">
+      <img width="400" src="https://github-readme-stats.shion.dev/api?username=samxcdn&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false"/>
+      <br/>
+      <img width="400" src="https://streak-stats.demolab.com/?user=samxcdn&theme=ambient_gradient&hide_border=false"/>
+      <br/>
+      <img width="400" src="https://github-readme-stats.shion.dev/api/top-langs/?username=samxcdn&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+    </td>
+  </tr>
+</table>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=samxcdn&theme=codeSTACKr&no-frame=false&no-bg=true&margin-w=4)
 
+### Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=samxcdn&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
+
+<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
@@ -43,9 +61,7 @@
 
 
 
-| Pull Request Size | Pull Request Lifecycle |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-request-open-to-merged/thumbnail.png?repo_id=41986369&image_size=auto" />|
+
 
 
 
