@@ -9,7 +9,7 @@
 
 <div>
 
-<img align="right" width="500" height="1000" alt="Shimarin" src="https://media.tenor.com/CBiORdgSvQoAAAAM/death-note-kira.gif"/>
+<img align="right" width="400" height="800" alt="Shimarin" src="https://media.tenor.com/CBiORdgSvQoAAAAM/death-note-kira.gif"/>
 
 <h2>ꜱᴏʙʀᴇ ᴍɪ</h2>
   
