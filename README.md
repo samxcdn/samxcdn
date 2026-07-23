@@ -11,6 +11,7 @@
 
 <img align="right" width="400" height="700" alt="Shimarin" src="https://media.tenor.com/CBiORdgSvQoAAAAM/death-note-kira.gif"/>
 
+
 <h2>ꜱᴏʙʀᴇ ᴍɪ</h2>
   
 - ⭐ currently working on **web-development**
@@ -23,7 +24,7 @@
 
 
 <br clear="both"/>
- <img align="left" width="445" height="700" src="https://i.pinimg.com/originals/de/df/ec/dedfec10b837fd26e4b1aaf4aa21a43b.gif"/>
+ <img align="left" width="448" height="700" src="https://i.pinimg.com/originals/de/df/ec/dedfec10b837fd26e4b1aaf4aa21a43b.gif"/>
 
 
 
