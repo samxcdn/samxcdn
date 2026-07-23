@@ -12,6 +12,7 @@
 <img align="right" width="400"  height="700" alt="Shimarin" src="https://media.tenor.com/CBiORdgSvQoAAAAM/death-note-kira.gif"/>
 <img align="right" src="https://komarev.com/ghpvc/?username=samxcdn&label=Profile%20views&color=0e75b6&style=flat" alt="samxcdn" />
 <img align="right" src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/samxcdn&label=Total%20Repos&query=public_repos&color=0e75b6&style=flat" alt="Repos" />
+<a href="https://github.com/samxcdn?tab=followers"><img align="right" alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/samxcdn?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"></a>
 
 
 
