@@ -23,7 +23,7 @@
 
 
 <br clear="both"/>
- <img align="left" width="450" height="700" src="https://i.pinimg.com/originals/de/df/ec/dedfec10b837fd26e4b1aaf4aa21a43b.gif"/>
+ <img align="left" width="440" height="700" src="https://i.pinimg.com/originals/de/df/ec/dedfec10b837fd26e4b1aaf4aa21a43b.gif"/>
 
 
 
@@ -33,7 +33,7 @@
 <img width="400px" src="https://streak-stats.demolab.com/?user=samxcdn&theme=radical" alt="streak stats"/>
 <img width="400px" src="https://github-readme-stats.vercel.app/api?username=samxcdn&show_icons=true&theme=radical" alt="samxcdn" />
 </p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=samxcdn&bg_color=141321&color=E5289E&line=DA5B0B&point=E1E8EB">
+
 </div>
 
 
