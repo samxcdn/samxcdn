@@ -9,7 +9,7 @@
 
 <div>
 
-<img align="right" width="400" height="700" alt="Shimarin" src="https://media.tenor.com/CBiORdgSvQoAAAAM/death-note-kira.gif"/>
+<img align="right" width="400"  alt="Shimarin" src="https://media.tenor.com/CBiORdgSvQoAAAAM/death-note-kira.gif"/>
 <img align="right" src="https://komarev.com/ghpvc/?username=samxcdn&label=Profile%20views&color=0e75b6&style=flat" alt="samxcdn" />
 <img align="right" src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/samxcdn&label=Total%20Repos&query=public_repos&color=0e75b6&style=flat" alt="Repos" />
 
@@ -68,9 +68,6 @@
 | ----------- | ----------- |
 |<img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-request-open-to-merged/thumbnail.png?repo_id=41986369&image_size=auto" />|
 
-| Currently Working On - Last 28 days | Top Active Contributors - Last 28 Days |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=12960671&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=41986369&image_size=auto" />|
 
 
 
