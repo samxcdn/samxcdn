@@ -31,12 +31,12 @@
     </td>
 
     
- <td valign="top">
+<td valign="top">
   <img width="430" src="https://github-readme-stats.shion.dev/api?username=samxcdn&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=true"/>
   <br/>
-  <img width="430" style="margin-top: 40px;" src="https://streak-stats.demolab.com/?user=samxcdn&theme=shades-of-purple&hide_border=false"/>
-  <br/>
-  <img width="430" style="margin-top: 40px;" src="https://github-readme-stats.shion.dev/api/top-langs/?username=samxcdn&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
+  <img width="430" src="https://streak-stats.demolab.com/?user=samxcdn&theme=shades-of-purple&hide_border=false"/>
+  <br/><br/><br/><br/>
+  <img width="430" src="https://github-readme-stats.shion.dev/api/top-langs/?username=samxcdn&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
 </td>
   </tr>
 </table>
