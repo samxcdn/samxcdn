@@ -36,7 +36,7 @@
       <br/>
       <img width="400"  src="https://github-readme-stats.shion.dev/api/top-langs/?username=samxcdn&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
       <br/>
-        <img width="400" src="https://github-readme-activity-graph.vercel.app/graph?username=samxcdn&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true&height=600"/>
+        <img width="400" src="https://github-readme-activity-graph.vercel.app/graph?username=samxcdn&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true&height=900"/>
   </tr>
 </table>
 
