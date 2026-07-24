@@ -30,15 +30,16 @@
       <img width="430" height="700" src="https://i.pinimg.com/originals/de/df/ec/dedfec10b837fd26e4b1aaf4aa21a43b.gif"/>
     </td>
     <td valign="top">
-      <img width="400" src="https://github-readme-stats.shion.dev/api?username=samxcdn&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=true"/>
+      <img width="400" src="https://github-readme-stats.shion.dev/api?username=samxcdn&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=true"/>
       <br/>
-      <img width="400" src="https://streak-stats.demolab.com/?user=samxcdn&theme=ambient_gradient&hide_border=false"/>
+      <img width="400" src="https://streak-stats.demolab.com/?user=samxcdn&theme=shades-of-purple&hide_border=false"/>
       <br/>
-      <img width="400"  src="https://github-p-langs/?username=samxcdn&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>                                        <br/>
-      <img width="400" height="280" src="https://github-readme-activity-graph.vercel.app/graph?username=samxcdn&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3olor=FFFFFF&area=true"/>
+      <img width="400" src="https://github-readme-stats.shion.dev/api/top-langs/?username=samxcdn&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
+      <br/>
+      <img width="400" height="280" src="https://github-readme-activity-graph.vercel.app/graph?username=samxcdn&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true"/>
     </td>
   </tr>
-</table> 
+</table>
 
 
 <div align="center">
