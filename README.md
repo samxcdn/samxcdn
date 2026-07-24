@@ -65,7 +65,9 @@
 <table width="100%" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
   <tr>
     <td width="65%" style="padding:0; margin:0; line-height:0;">
-      <img width="100%" height="350" style="display:block;" src="https://github-readme-activity-graph.vercel.app/graph?username=samxcdn&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_title=true"/>
+      <div style="width:100%; height:350px; overflow:hidden; border-radius:8px;">
+        <img style="width:130%; height:130%; object-fit:cover; margin-left:-15%; margin-top:-15%; display:block;" src="https://github-readme-activity-graph.vercel.app/graph?username=samxcdn&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_title=true"/>
+      </div>
     </td>
     <td width="350" align="right" style="padding:0; margin:0; line-height:0;">
       <img width="350" height="350" style="border-radius: 8px; object-fit: cover; display:block;" src="https://i.pinimg.com/736x/fe/be/71/febe718444ad0aec018e7ad47382c455.jpg"/>
