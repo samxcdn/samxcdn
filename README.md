@@ -58,8 +58,6 @@
 ### GitHub Trophies
 <img src="https://raw.githubusercontent.com/samxcdn/samxcdn/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
 
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=samxcdn&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
