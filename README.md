@@ -62,6 +62,11 @@
 ![](https://github-contributor-stats.vercel.app/api?username=samxcdn&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 </div>
 
