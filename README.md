@@ -90,7 +90,7 @@ Other             58 mins               █░░░░░░░░░░░░�
 
 <div align="center">
 
-  <img src="./assets/saint-of-love.gif" width="1500" height="600"/>
+  <img src="./assets/saint-of-love.gif" width="2000" height="600"/>
 
 </div>
 
