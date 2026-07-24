@@ -36,8 +36,6 @@
       <br/>
       <img width="400" src="https://github-readme-stats.shion.dev/api/top-langs/?username=samxcdn&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
       <br/>
-      <img width="400" height="280" src="https://github-readme-activity-graph.vercel.app/graph?username=samxcdn&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true"/>
-    </td>
   </tr>
 </table>
 
@@ -59,6 +57,7 @@
 
 <img src="https://raw.githubusercontent.com/samxcdn/samxcdn/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
 <br clear="right"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <table width="100%">
   <tr>
