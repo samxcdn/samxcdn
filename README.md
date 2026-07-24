@@ -29,13 +29,15 @@
     <td>
       <img width="430" height="700" src="https://i.pinimg.com/originals/de/df/ec/dedfec10b837fd26e4b1aaf4aa21a43b.gif"/>
     </td>
-    <td valign="top">
-      <img width="400" src="https://github-readme-stats.shion.dev/api?username=samxcdn&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=true"/>
-      <br/>
-      <img width="400" src="https://streak-stats.demolab.com/?user=samxcdn&theme=shades-of-purple&hide_border=false"/>
-      <br/>
-      <img width="400" src="https://github-readme-stats.shion.dev/api/top-langs/?username=samxcdn&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
-      <br/>
+
+    
+   <td valign="top">
+  <img width="500" src="https://github-readme-stats.shion.dev/api?username=samxcdn&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=true"/>
+  <br/>
+  <img width="500" src="https://streak-stats.demolab.com/?user=samxcdn&theme=shades-of-purple&hide_border=false"/>
+  <br/>
+  <img width="500" src="https://github-readme-stats.shion.dev/api/top-langs/?username=samxcdn&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
+</td>
   </tr>
 </table>
 
