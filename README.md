@@ -58,22 +58,22 @@
 ### GitHub Trophies
 
 <img src="https://raw.githubusercontent.com/samxcdn/samxcdn/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
+<img src="https://i.pinimg.com/736x/fe/be/71/febe718444ad0aec018e7ad47382c455.jpg" width="250" height="250" align="right" style="border-radius: 8px; object-fit: cover;"/>
 <br clear="right"/>
-<img src="https://i.pinimg.com/736x/fe/be/71/febe718444ad0aec018e7ad47382c455.jpg" width="150" height="150" align="right" style="border-radius: 8px; object-fit: cover;"/>
 
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        9 hrs 21 mins         ████ %
+TypeScript        9 hrs 21 mins         ██████████░░░░░░░░░░░░░░░   39.53 %
 Markdown          7 hrs 42 mins         ████████░░░░░░░░░░░░░░░░░   32.53 %
-HTML              1 hr 22 mins          █▒░░ %
+HTML              1 hr 22 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
 Python            1 hr 9 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
-Other             58 mins               █░░░ %
+Other             58 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
 
 <!--END_SECTION:waka-->
 
 </div>
-```  
+```
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
