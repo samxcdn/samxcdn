@@ -37,7 +37,16 @@
       <img width="400"  src="https://github-readme-stats.shion.dev/api/top-langs/?username=samxcdn&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
        <br/>
       <!--START_SECTION:waka-->
-      <!--END_SECTION:waka-->
+
+```txt
+TypeScript        9 hrs 21 mins         ██████████░░░░░░░░░░░░░░░   39.53 %
+Markdown          7 hrs 42 mins         ████████░░░░░░░░░░░░░░░░░   32.53 %
+HTML              1 hr 22 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
+Python            1 hr 9 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+Other             58 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
+```
+
+<!--END_SECTION:waka-->
     </td>
   </tr>
 </table>
