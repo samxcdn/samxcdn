@@ -64,15 +64,14 @@
 
 <table width="100%">
   <tr>
-    <td width="65%" valign="top">
-      <img width="100%" height="250" style="object-fit:cover; border-radius:8px;" src="https://github-readme-activity-graph.vercel.app/graph?username=samxcdn&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_title=true"/>
+    <td width="65%">
+      <img width="100%" height="350" style="object-fit:cover; border-radius:8px;" src="https://github-readme-activity-graph.vercel.app/graph?username=samxcdn&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_title=true"/>
     </td>
     <td width="350" align="right">
       <img width="350" height="350" style="border-radius: 8px; object-fit: cover;" src="https://i.pinimg.com/736x/fe/be/71/febe718444ad0aec018e7ad47382c455.jpg"/>
     </td>
   </tr>
 </table>
-
 </div>
 
 
