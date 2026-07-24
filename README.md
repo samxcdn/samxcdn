@@ -35,9 +35,10 @@
       <img width="400" src="https://streak-stats.demolab.com/?user=samxcdn&theme=ambient_gradient&hide_border=false"/>
       <br/>
       <img width="400"  src="https://github-readme-stats.shion.dev/api/top-langs/?username=samxcdn&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
-     <br/>
+       <br/>
       <!--START_SECTION:waka-->
       <!--END_SECTION:waka-->
+    </td>
   </tr>
 </table>
 
@@ -77,7 +78,7 @@
 
 <div align="center">
 
-  <img src="./assets/saint-of-love.gif" width="1500" height="2000"/>
+  <img src="./assets/saint-of-love.gif" width="1500" height="600"/>
 
 </div>
 
