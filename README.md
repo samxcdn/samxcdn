@@ -58,13 +58,12 @@
 ### GitHub Trophies
 
 <img src="https://i.pinimg.com/736x/fe/be/71/febe718444ad0aec018e7ad47382c455.jpg" width="150" height="150" align="right" style="border-radius: 8px; object-fit: cover;"/>
+<img src="https://raw.githubusercontent.com/samxcdn/samxcdn/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 
 
 
-
-<img src="https://raw.githubusercontent.com/samxcdn/samxcdn/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
 
 <!--START_SECTION:waka-->
 
