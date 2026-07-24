@@ -30,11 +30,11 @@
       <img width="430" height="700" src="https://i.pinimg.com/originals/de/df/ec/dedfec10b837fd26e4b1aaf4aa21a43b.gif"/>
     </td>
     <td valign="top">
-      <img width="400" src="https://github-readme-stats.shion.dev/api?username=samxcdn&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false"/>
+      <img width="400" src="https://github-readme-stats.shion.dev/api?username=samxcdn&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=true"/>
       <br/>
       <img width="400" src="https://streak-stats.demolab.com/?user=samxcdn&theme=ambient_gradient&hide_border=false"/>
       <br/>
-      <img width="400"  src="https://github-readme-stats.shion.dev/api/top-langs/?username=samxcdn&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+      <img width="400"  src="https://github-readme-stats.shion.dev/api/top-langs/?username=samxcdn&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
       <br/>
       <img width="400" height="280" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=257218955&image_size=auto"/>
     </td>
@@ -61,6 +61,8 @@
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=samxcdn&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 </div>
 
 <br/>
