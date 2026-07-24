@@ -66,10 +66,12 @@ Markdown          7 hrs 42 mins         ████████░░░░░�
 HTML              1 hr 22 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
 Python            1 hr 9 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
 Other             58 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
-```
 
 <!--END_SECTION:waka-->
-    
+</td>
+<td valign="top" align="center">
+  <img src="https://i.pinimg.com/736x/fe/be/71/febe718444ad0aec018e7ad47382c455.jpg" width="150" height="150" style="border-radius: 8px; object-fit: cover
+</td>
   </tr>
 </table>
 </div>
@@ -90,7 +92,7 @@ Other             58 mins               █░░░░░░░░░░░░�
 
 <div align="center">
 
-  <img src="./assets/saint-of-love.gif" width="2000" height="2000"/>
+  <img src="./assets/saint-of-love.gif" width="1500" height="600"/>
 
 </div>
 
