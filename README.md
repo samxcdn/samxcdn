@@ -60,7 +60,7 @@
 <img src="https://raw.githubusercontent.com/samxcdn/samxcdn/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
 <br clear="right"/>
 
-<img width="500" src="https://github-readme-activity-graph.vercel.app/graph?username=samxcdn&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true"/>
+<img width="600" height="250" src="https://github-readme-activity-graph.vercel.app/graph?username=samxcdn&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_title=true"/>
 <img src="https://i.pinimg.com/736x/fe/be/71/febe718444ad0aec018e7ad47382c455.jpg" width="250" height="250" align="right" style="border-radius: 8px; object-fit: cover;"/>
 
 </div>
